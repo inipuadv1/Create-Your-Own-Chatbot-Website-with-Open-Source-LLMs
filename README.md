@@ -19,5 +19,5 @@ In this project, you will learn:
 - How to host your LLM to create a chatbot website using HTML, CSS, JavaScript, and Python
 - How to deploy your chatbot website to the web
 
-## Documentation
-
+## Preview
+![Result](https://github.com/inipuadv1/Create-Your-Own-Chatbot-Website-with-Open-Source-LLMs/blob/main/Screenshot%202024-03-04%20134157.png)
